@@ -1,0 +1,2 @@
+# resumeNextJS
+trainee of nextjs
